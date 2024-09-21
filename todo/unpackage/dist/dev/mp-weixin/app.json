@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "src/pages/focus/focus",
+    "src/pages/mine/mine",
+    "src/pages/calendar/calendar",
+    "src/pages/task/task",
+    "src/pages/mine/userController",
+    "src/pages/mine/dataSur",
+    "src/pages/mine/perSet",
+    "src/pages/mine/perNote",
+    "src/pages/mine/help",
+    "src/pages/focus/time",
+    "src/pages/component/task_list",
+    "src/pages/component/popup"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#30324c"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "src/pages/focus/focus",
+        "text": "专注",
+        "iconPath": "static/时间.png"
+      },
+      {
+        "pagePath": "src/pages/calendar/calendar",
+        "text": "日程",
+        "iconPath": "static/日历.png"
+      },
+      {
+        "pagePath": "src/pages/task/task",
+        "text": "任务",
+        "iconPath": "static/编辑.png"
+      },
+      {
+        "pagePath": "src/pages/mine/mine",
+        "text": "我的",
+        "iconPath": "static/我的.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,1 @@
+<view><my-layout vue-id="eb78b422-1" bind:__l="__l"></my-layout><view class="user_tip"><view class="cell"><text>个人笔记</text><u-line vue-id="eb78b422-2" dashed="{{true}}" color="black" length="90%" bind:__l="__l"></u-line><view class="note"><u--textarea vue-id="eb78b422-3" placeholder="请输入内容" bind:__l="__l"></u--textarea></view></view></view>//弹出框</view>

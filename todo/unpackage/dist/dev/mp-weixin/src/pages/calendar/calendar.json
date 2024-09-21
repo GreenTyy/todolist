@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "日程",
+  "usingComponents": {
+    "uni-calendar": "/uni_modules/uni-calendar/components/uni-calendar/uni-calendar",
+    "u--text": "/uview-ui/components/u--text/u--text",
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "u--input": "/uview-ui/components/u--input/u--input"
+  }
+}

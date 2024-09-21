@@ -1,0 +1,1 @@
+<view><my-layout vue-id="2141d2b9-1" bind:__l="__l"></my-layout><view class="user_tip"><block wx:for="{{settings}}" wx:for-item="item" wx:for-index="index"><view class="cell"><text>{{item}}</text><u-line vue-id="{{'2141d2b9-2-'+index}}" dashed="{{true}}" color="black" length="90%" bind:__l="__l"></u-line></view></block></view>//弹出框</view>

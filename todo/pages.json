@@ -1,0 +1,90 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+    "pages": [
+	{
+		"path": "src/pages/focus/focus",
+		"style": {
+           "navigationBarTitleText" : "专注"
+		}
+	},
+	{
+		"path" : "src/pages/mine/mine",
+		"style" : 
+		{
+			"navigationBarTitleText" : "我的"
+		}
+	},
+	{
+		"path" : "src/pages/calendar/calendar",
+		"style" : 
+		{
+			"navigationBarTitleText" : "日程"
+		}
+	},
+	{
+		"path" : "src/pages/task/task",
+		"style" : 
+		{
+			"navigationBarTitleText" : "任务"
+		}
+	 },
+	{
+		"path": "src/pages/mine/userController"
+	},
+	{
+		"path": "src/pages/mine/dataSur"
+	},
+	{
+		"path": "src/pages/mine/perSet"
+	},
+	{
+		"path": "src/pages/mine/perNote"
+	},
+	{
+		"path": "src/pages/mine/help"
+	},
+	{
+		"path": "src/pages/focus/time"
+	},
+	{
+		"path" : "src/pages/component/task_list"
+	},
+	{
+		"path": "src/pages/component/popup"
+	}
+],
+    "globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarBackgroundColor": "#30324c"
+    	
+    },
+	"tabBar": {
+		"list": [
+			{
+				"pagePath": "src/pages/focus/focus",
+				"text": "专注",
+				"iconPath": "static/时间.png"
+			},
+			{
+				"pagePath": "src/pages/calendar/calendar",
+				"text": "日程",
+				"iconPath": "static/日历.png"
+			},
+			{
+				"pagePath": "src/pages/task/task",
+				"text": "任务",
+				"iconPath": "static/编辑.png"
+			},
+			{
+				"pagePath": "src/pages/mine/mine",
+				"text": "我的",
+				"iconPath": "static/我的.png"
+			}
+		]
+	},
+	"uniIdRouter": {
+		
+	}
+}

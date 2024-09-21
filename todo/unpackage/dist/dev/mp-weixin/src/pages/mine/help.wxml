@@ -1,0 +1,1 @@
+<view><my-layout vue-id="9f995206-1" bind:__l="__l"></my-layout><view class="user_tip"><view class="cell"><text>帮助与反馈</text><u-line vue-id="9f995206-2" dashed="{{true}}" color="black" length="90%" bind:__l="__l"></u-line><view class="text">感谢对个人独立创作的todo小程序的支持，小程序明确用户要求...</view></view></view></view>

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "任务",
+  "usingComponents": {
+    "u--text": "/uview-ui/components/u--text/u--text",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "task-list": "/src/pages/component/task_list",
+    "tash-popup": "/src/pages/component/popup"
+  }
+}

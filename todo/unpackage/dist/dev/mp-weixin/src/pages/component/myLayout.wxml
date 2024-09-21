@@ -1,0 +1,1 @@
+<view><image class="my_bg" src="../../../static/image.png"></image><view class="return_btn"><u-button class="return_btn" vue-id="47998c3a-1" color="#A498B4" shape="circle" data-event-opts="{{[['^click',[['returnLastPage',['$0'],['lastPage']]]]]}}" bind:click="__e" bind:__l="__l" vue-slots="{{['default']}}">返回</u-button></view>//弹出框</view>

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "u-line": "/uview-ui/components/u-line/u-line",
+    "u--textarea": "/uview-ui/components/u--textarea/u--textarea",
+    "my-layout": "/src/pages/component/myLayout"
+  }
+}
